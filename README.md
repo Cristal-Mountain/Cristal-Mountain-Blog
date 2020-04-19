@@ -1,2 +1,3 @@
-# Cristal-Mountain-Blog
-A blog for our Cristal Mountain members
+# Crystal-Mountain-Blog
+
+A blog for our Crystal Mountain members

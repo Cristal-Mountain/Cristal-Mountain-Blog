@@ -4,9 +4,9 @@
   "description": "crystal mountain blog",
   "main": "index.js",
   "scripts": {
-    "start": "parcel ./src/pages/*.html --port 8080",
-    "dev": "parcel --port 8080 watch ./src/pages/*.html",
-    "build": "parcel build ./src/pages/*.html",
+    "start": "parcel ./pages/*.html --port 8080",
+    "dev": "parcel --port 8080 watch ./pages/*.html",
+    "build": "parcel build ./pages/*.html",
     "start:prod": "node ./src/server.js"
   },
   "repository": {

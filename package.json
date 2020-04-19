@@ -1,7 +1,7 @@
 {
-  "name": "cristal-mountain-blog",
+  "name": "crystal-mountain-blog",
   "version": "1.0.0",
-  "description": "cristal mountain blog",
+  "description": "crystal mountain blog",
   "main": "index.js",
   "scripts": {
     "start": "parcel ./src/pages/*.html --port 8080",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Cristal-Mountain/Cristal-Mountain-Blog.git"
+    "url": "git+https://github.com/Crystal-Mountain-Development/Crystal-Mountain-Blog.git"
   },
-  "author": "Cristal Mountain",
+  "author": "Crystal Mountain",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Cristal-Mountain/Cristal-Mountain-Blog/issues"
+    "url": "https://github.com/Crystal-Mountain-Development/Crystal-Mountain-Blog/issues"
   },
-  "homepage": "https://github.com/Cristal-Mountain/Cristal-Mountain-Blog#readme",
+  "homepage": "https://github.com/Crystal-Mountain-Development/Crystal-Mountain-Blog#readme",
   "dependencies": {
     "parcel-bundler": "^1.12.4"
   }

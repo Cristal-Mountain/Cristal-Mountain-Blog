@@ -1,0 +1,23 @@
+{
+  "name": "cristal-mountain-blog",
+  "version": "1.0.0",
+  "description": "cristal mountain blog",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ./src/pages/*.html --port 8080",
+    "dev": "parcel --port 8080 watch ./src/pages/*.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cristal-Mountain/Cristal-Mountain-Blog.git"
+  },
+  "author": "Cristal Mountain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cristal-Mountain/Cristal-Mountain-Blog/issues"
+  },
+  "homepage": "https://github.com/Cristal-Mountain/Cristal-Mountain-Blog#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}

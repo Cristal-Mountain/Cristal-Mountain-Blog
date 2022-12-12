@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/Crystal-Mountain-Development/Crystal-Mountain-Blog#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "parcel-bundler": "^1.12.4"
   }
 }
